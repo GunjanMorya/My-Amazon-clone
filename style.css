@@ -154,7 +154,7 @@ span{
     font-weight:700;
 }
 
-.hero-section {
+/* .hero-section {
     background-image:url(hero_image.jpg);
     background-size: cover;
     height:380px;
@@ -177,7 +177,7 @@ span{
 
 .hero-message a{
     color:#007185
-}
+} */
 
 .shop-section {
     display:flex;
@@ -284,4 +284,5 @@ ul a {
 
 .copyright {
     padding-top:5px;
+
 }
